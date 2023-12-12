@@ -1,2 +1,2 @@
 # Ethereum-Price-Prediction
-Boost your cryptocurrency insights with machine learning for accurate Ethereum price and movement predictions.
+Explore Ethereum's future with cutting-edge machine learning models. This project, featuring LSTM, Bi-LSTM, ESN, SVM, and MLP, predicts Ethereum prices and classifies movements. Uncover accurate forecasts, identify trends, and empower your cryptocurrency decisions. 
